@@ -1,17 +1,17 @@
 # TextMining_withML
-### 구성원
+### Team
 * 박정현, 이성준, 이소정, 한정현, 허 권
-### 프로젝트명
+### Project
 * 우크라사태가 한국 경제에 미치는 영향 토픽모델링 및 워드클라우드 생성
-### 프로젝트 목적
+### Object
 * 크롤링으로 수집한 데이터에 머신러닝 텍스트 마이닝 기법을 적용하여 주제에 대한 유의미한 통찰을 수행
-### 역할
+### Role
 * 주제선정, 크롤링, 데이터 전처리, 토픽모델링, 워드클라우드
 ### Models and Data
 * TF-IDF / LDA / Logistic Regression
 * 우크라사태 이전/이후 신문기사 제목 및 본문 2919건
 ### Envs and Requirements
-* Colab
+* Colab, 
 * BeautifulSoup, Pandas, RE, KoNLPy, Scikit-Learn, Gensim, Matplotlib, Seaborn
 ### Progress
 * 웹 크롤링 및 텍스트 데이터 정제
